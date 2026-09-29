@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.gutianrc.cn/sitemap.xml
